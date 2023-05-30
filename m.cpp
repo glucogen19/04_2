@@ -3,6 +3,7 @@
 using namespace std;
 
 class TPen {
-
+	private:
+	string color;
 };
 int main() {}
