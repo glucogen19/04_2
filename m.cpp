@@ -27,4 +27,8 @@ int main() {
 	TPen pen;
 	string a;
 	cin >> a;
+	pen.setColor(a);
+	cout << pen.getColor() << endl;
+
+	return 0;
 }
