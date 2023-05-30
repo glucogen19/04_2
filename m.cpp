@@ -1,1 +1,4 @@
+class TPen {
+
+};
 int main() {}
