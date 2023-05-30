@@ -17,4 +17,8 @@ class TPen {
     	else color = newColor;
 	}
 };
+
+string TPen::getColor() { 
+return color; 
+
 int main() {}
