@@ -25,4 +25,6 @@ int main() {
 	setlocale(LC_ALL, "RU");
 	cout << "Enter (set) the color of the UN flag:" << endl; //5b92e5
 	TPen pen;
+	string a;
+	cin >> a;
 }
